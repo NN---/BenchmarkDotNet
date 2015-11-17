@@ -2,6 +2,8 @@
 
 ## Content
 
+[![Join the chat at https://gitter.im/NN---/BenchmarkDotNet](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/NN---/BenchmarkDotNet?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 * [Features](#features)
 * [Why is microbenchmarking hard?](#why-is-microbenchmarking-hard)
 * [Microbenchmarking rules](#microbenchmarking-rules)
